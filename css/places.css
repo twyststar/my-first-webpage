@@ -1,0 +1,20 @@
+body {
+  background-image: url("../img/forest.jpg");
+  background-attachment: local;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+img {
+  width: 60%;
+}
+
+p {
+  font-style: oblique;
+  font-size: 20px;
+}
+
+li {
+  font-weight: bold;
+  font-size: 30px;
+}
