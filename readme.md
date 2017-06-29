@@ -11,7 +11,7 @@ _This is a simple webpage made to practice basic elements and GIT_
 ## Setup/Installation Requirements
 
 * _Clone this repository onto desktop_
-* _Open file_
+* _Open index in browser_
 
 
 ## Known Bugs
